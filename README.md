@@ -17,3 +17,13 @@
   - Quantidade total de refeições fora da dieta
   - Melhor sequência de refeições dentro da dieta
 - O usuário só pode visualizar, editar, e apagar as refeições o qual ele criou
+
+
+Um usuário deve ter:
+  - ID
+  - Nome
+  - Email
+  - Data de nascimento
+  - Data de criação
+
+Todas as rotas devem ser sub-rotas de /users
